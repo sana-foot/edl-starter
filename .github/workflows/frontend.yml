@@ -6,7 +6,7 @@ on:
 
 jobs:
   test:
-    -name : Test FE
+    name : Test FE
     runs-on: ubuntu-latest
 
     steps:
